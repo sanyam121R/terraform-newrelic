@@ -1,4 +1,4 @@
-# Training on New Relic - Terraform
+# Training on Terraform with New Relic -
 
 ## Alert condition
 
