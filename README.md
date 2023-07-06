@@ -36,12 +36,17 @@ New Relic Synthetic Monitoring is a tool that simulates user interactions with w
 * Endpoint Availability (Scripted API)
 * User Step Execution ( Step Monitor)
 
-![NewRelic Alert created](./screenshots/Simple_monitor.png)
+![NewRelic Ping monitor created](./screenshots/Simple_monitor.png)
 Simple Monitor
 
-![NewRelic Alert created](./screenshots/browser_monitor.png)
+![NewRelic simple browser monitor created](./screenshots/browser_monitor.png)
 Browser Monitor
 
+![NewRelic Synthetics Scripted Monitor created](./screenshots/script_monitor_1.png)
+Synthetics Scripted Monitor
+
+![NewRelic scripted api created](./screenshots/script_monitor_1.png)
 Scripted API
 
+![NewRelic scripted browser created](./screenshots/script_monitor_2.png)
 Scripted Browser
