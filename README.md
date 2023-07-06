@@ -41,3 +41,7 @@ Simple Monitor
 
 ![NewRelic Alert created](./screenshots/browser_monitor.png)
 Browser Monitor
+
+Scripted API
+
+Scripted Browser
